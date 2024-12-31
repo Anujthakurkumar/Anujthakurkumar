@@ -6,37 +6,18 @@
 
 - 🌱 I’m currently studying cybersecurity and enhancing my skills in network security, ethical hacking, and digital forensics.
 - 💼 I’m looking for internship opportunities in cybersecurity, penetration testing, and security analysis.
-- 🎓 I have a background in [Your Educational Background, e.g., Computer Science, Information Security, etc.].
+- 🎓 I have a background in Computer Science, Information Security, etc.
 - 💬 Ask me about network security, ethical hacking, and cryptography.
-- 📫 How to reach me: [Tanuj9528@gmail.com] | [www.linkedin.com/in/anuj-kumar-bb19542b0]
+- 📫 How to reach me: www.linkedin.com/in/anuj-kumar-bb19542b0
 - ⚡ Fun fact: I enjoy participating in Capture The Flag (CTF) competitions and exploring new security tools.
 
 ## Skills
 
-- **Programming Languages:** Python, C
+- **Programming Languages:** Python, C, Html, css
 - **Cybersecurity Tools:** Wireshark, Nmap, Metasploit, Burp Suite, John the Ripper,SQLmap,jsql
-- **Web Security:** OWASP Top Ten, SQL Injection, Cross-Site Scripting (XSS)
-- **Network Security:** Firewalls, VPNs, IDS/IPS
-- **Digital Forensics:** Autopsy, FTK Imager, Volatility
+- **Web Security:**  SQL Injection, Cross-Site Scripting (XSS)
 - **Operating Systems:** Linux (Kali), Windows
 
-## Certifications
-
-- **CompTIA Security+**
-- **Certified Ethical Hacker (CEH)**
-- **Cisco Certified CyberOps Associate**
-
-## Projects
-
-### 1. [Network Security Monitoring](https://github.com/Anujthakurkumar/Network-Security-Monitoring)
-- **Description:** Developed a network security monitoring tool using Python and Scapy to detect suspicious activities.
-- **Technologies Used:** Python, Scapy, Wireshark
-- **Highlights:** Implemented real-time packet analysis and alerting system for potential threats.
-
-### 2. [Web Application Penetration Testing](https://github.com/Anujthakurkumar/Web-Application-Penetration-Testing)
-- **Description:** Conducted penetration testing on a vulnerable web application to identify and exploit security flaws.
-- **Technologies Used:** Burp Suite, SQLMap, OWASP ZAP
-- **Highlights:** Discovered and mitigated multiple vulnerabilities including SQL Injection and XSS.
 
 ## GitHub Stats
 
@@ -46,6 +27,4 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-twitter-handle)
-[![Email](https://img.shields.io/badge/Email-Send%20Email-blue)](mailto:your-email-address)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anuj-kumar-bb19542b0)
