@@ -1,43 +1,51 @@
-# Hi there, I'm Anuj Thakur Kumar 👋
+# Hi there, I'm Anuj Kumar 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anujthakurkumar&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=Anujthakurkumar&style=flat-square)
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a passionate software developer with a strong interest in open-source projects and cutting-edge technologies. I love solving complex problems and contributing to the developer community.
+- 🌱 I’m currently studying cybersecurity and enhancing my skills in network security, ethical hacking, and digital forensics.
+- 💼 I’m looking for internship opportunities in cybersecurity, penetration testing, and security analysis.
+- 🎓 I have a background in [Your Educational Background, e.g., Computer Science, Information Security, etc.].
+- 💬 Ask me about network security, ethical hacking, and cryptography.
+- 📫 How to reach me: [Tanuj9528@gmail.com] | [www.linkedin.com/in/anuj-kumar-bb19542b0]
+- ⚡ Fun fact: I enjoy participating in Capture The Flag (CTF) competitions and exploring new security tools.
 
-- 🌱 I’m currently learning **[insert technology or language you're learning]**
-- 👯 I’m looking to collaborate on **[insert project or type of project]**
-- 💬 Ask me about **[insert topics you are knowledgeable about]**
-- 📫 How to reach me: **[insert email or other contact information]**
+## Skills
 
-## 🔧 Technologies & Tools
+- **Programming Languages:** Python, C
+- **Cybersecurity Tools:** Wireshark, Nmap, Metasploit, Burp Suite, John the Ripper,SQLmap,jsql
+- **Web Security:** OWASP Top Ten, SQL Injection, Cross-Site Scripting (XSS)
+- **Network Security:** Firewalls, VPNs, IDS/IPS
+- **Digital Forensics:** Autopsy, FTK Imager, Volatility
+- **Operating Systems:** Linux (Kali), Windows
 
-Here are some of the technologies and tools I work with:
+## Certifications
 
-- **Languages:** [insert languages, e.g., JavaScript, Python, Java, etc.]
-- **Frameworks:** [insert frameworks, e.g., React, Angular, Spring, etc.]
-- **Tools:** [insert tools, e.g., Git, Docker, Jenkins, etc.]
-- **Databases:** [insert databases, e.g., MySQL, MongoDB, etc.]
+- **CompTIA Security+**
+- **Certified Ethical Hacker (CEH)**
+- **Cisco Certified CyberOps Associate**
 
-## 📈 GitHub Stats
+## Projects
+
+### 1. [Network Security Monitoring](https://github.com/Anujthakurkumar/Network-Security-Monitoring)
+- **Description:** Developed a network security monitoring tool using Python and Scapy to detect suspicious activities.
+- **Technologies Used:** Python, Scapy, Wireshark
+- **Highlights:** Implemented real-time packet analysis and alerting system for potential threats.
+
+### 2. [Web Application Penetration Testing](https://github.com/Anujthakurkumar/Web-Application-Penetration-Testing)
+- **Description:** Conducted penetration testing on a vulnerable web application to identify and exploit security flaws.
+- **Technologies Used:** Burp Suite, SQLMap, OWASP ZAP
+- **Highlights:** Discovered and mitigated multiple vulnerabilities including SQL Injection and XSS.
+
+## GitHub Stats
 
 ![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anujthakurkumar&show_icons=true&theme=radical)
 
-## 📕 Latest Blog Posts
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujthakurkumar&layout=compact&theme=radical)
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Get Started with Open Source](https://yourblog.com/how-to-get-started-with-open-source)
-- [Understanding JavaScript Closures](https://yourblog.com/understanding-javascript-closures)
-- [A Guide to Python Decorators](https://yourblog.com/a-guide-to-python-decorators)
-<!-- BLOG-POST-LIST:END -->
+## Connect with Me
 
-## 📫 Connect with Me
-
-- LinkedIn: [Anuj Thakur Kumar](https://www.linkedin.com/in/anujthakurkumar)
-- Twitter: [@AnujThakurKumar](https://twitter.com/AnujThakurKumar)
-- Personal Website: [www.anujthakurkumar.com](https://www.anujthakurkumar.com)
-
----
-
-⭐️ From [Anujthakurkumar](https://github.com/Anujthakurkumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-twitter-handle)
+[![Email](https://img.shields.io/badge/Email-Send%20Email-blue)](mailto:your-email-address)
