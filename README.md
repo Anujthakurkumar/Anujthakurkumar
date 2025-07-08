@@ -23,6 +23,8 @@
 ## GitHub Stats
 
 ![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anujthakurkumar&show_icons=true&theme=radical)
+![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujthakurdev&show_icons=true&count_private=true&theme=radical&cache_seconds=0)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujthakurkumar&layout=compact&theme=radical)
 
