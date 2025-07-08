@@ -1,3 +1,17 @@
+<!-- Cyber Terminal Header -->
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=500&color=0F0&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Anuj+Kumar;Cybersecurity+Student+%F0%9F%94%90;Aspiring+Penetration+Tester+%F0%9F%92%BB;Loves+Hacking+%F0%9F%94%A5+and+CTFs" alt="Typing SVG" /></h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anujthakurkumar&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
+---
+
+### 🔍 About Me
+
+```bash
+> whoami
+I'm Anuj — an 18-year-old cybersecurity enthusiast from Punjab, India 🇮🇳
 <!-- Profile Header -->
 <p align="center">
   <img src="https://github.com/Anujthakurkumar/header/blob/main/320703656-c74e2f92-baf8-4c0f-a9a8-b92c550c3cb0%20(1).png" alt="Anuj Kumar Header" width="100%" />
