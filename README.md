@@ -3,31 +3,30 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anujthakurkumar&style=flat-square)
 
-## About Me
+## 👨‍💻 About Me
 
 - 🌱 I’m currently studying cybersecurity and enhancing my skills in network security, ethical hacking, and digital forensics.
 - 💼 I’m looking for internship opportunities in cybersecurity, penetration testing, and security analysis.
 - 🎓 I have a background in Computer Science, Information Security, etc.
 - 💬 Ask me about network security, ethical hacking, and cryptography.
-- 📫 How to reach me: www.linkedin.com/in/anuj-kumar-bb19542b0
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anuj-kumar-bb19542b0)
 - ⚡ Fun fact: I enjoy participating in Capture The Flag (CTF) competitions and exploring new security tools.
 
-## Skills
+## 🛠️ Skills
 
-- **Programming Languages:** Python, C, Html, css
-- **Cybersecurity Tools:** Wireshark, Nmap, Metasploit, Burp Suite, John the Ripper,SQLmap,jsql
-- **Web Security:**  SQL Injection, Cross-Site Scripting (XSS)
+- **Programming Languages:** Python, C, HTML, CSS
+- **Cybersecurity Tools:** Wireshark, Nmap, Metasploit, Burp Suite, John the Ripper, SQLmap, jSQL
+- **Web Security:** SQL Injection, Cross-Site Scripting (XSS)
 - **Operating Systems:** Linux (Kali), Windows
 
+## 📊 GitHub Stats
 
-## GitHub Stats
+![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anujthakurkumar&show_icons=true&count_private=true&theme=radical&cache_seconds=0)
 
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anujthakurkumar&show_icons=true&theme=radical)
-![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujthakurdev&show_icons=true&count_private=true&theme=radical&cache_seconds=0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujthakurkumar&layout=compact&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anujthakurkumar&theme=radical)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujthakurkumar&layout=compact&theme=radical)
+## 🤝 Connect with Me
 
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anuj-kumar-bb19542b0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/anuj-kumar-bb19542b0)
